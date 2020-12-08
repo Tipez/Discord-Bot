@@ -17,6 +17,8 @@
 Lancez les commandes docker  
 - via nodemon  
 Faite un cd app/ puis nodemon index.js  
+
+
 -Etape 4 : Allez sur votre serveur discord et tapez la commande %joke pour vous amuser avec Chuck Norris
 
 <div id='discord'/>  
