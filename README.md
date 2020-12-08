@@ -22,7 +22,8 @@ Liste des commandes disponibles :
 - %jokeCategories
 - %help
 - %ping
-- %prefix[new_prefix] où new_prefix est un nouveau préfix
+- %prefix[new_prefix] où new_prefix est un nouveau préfix   
+Api Chuck Norris : http://www.icndb.com/api/
 
 ## Docker commandes utiles
 ### Lancement
