@@ -10,18 +10,18 @@
 <div id='Structure'/>  
 
 ## Structure
-.
-├── app
-│   ├── commands
-│   ├── node_modules
-│   ├── config.json      <-- Your discord Token Here !
-│   ├── index.js
-│   ├── package.json
-│   └── package-lock.json
-├── docker-compose.yml
-├── Dockerfile
-├── README.md
-└── tree.txt
+.  
+├── app  
+│   ├── commands  
+│   ├── node_modules  
+│   ├── config.json      <-- Your discord Token Here !  
+│   ├── index.js  
+│   ├── package.json  
+│   └── package-lock.json  
+├── docker-compose.yml  
+├── Dockerfile  
+├── README.md  
+└── tree.txt  
 
 
 <div id='Repo'/>  
