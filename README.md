@@ -6,5 +6,5 @@ docker run -it node-docker
 docker rmi $(docker images -q)  
 
 
-pas de docker-compose.yml car ce dernier me renvoyait des erreurs !
-Il faudra faire sans volume
+pas de docker-compose.yml car ce dernier me renvoyait des erreurs !  
+[![docker-compose-bug.png](https://i.postimg.cc/8ckwvXhV/docker-compose-bug.png)](https://postimg.cc/MM4y2DPs)
