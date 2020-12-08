@@ -12,7 +12,11 @@
 ## Comment utiliser se repo ?
 -Etape 1 : clonez ce repo sur votre machine   
 -Etape 2 : Modifiez dans le fichier : /app/config.json le token du bot par le votre !  
--Etape 3 : Lancez les commandes docker  
+-Etape 3 :  
+- via docker :  
+Lancez les commandes docker  
+- via nodemon  
+Faite un cd app/ puis nodemon index.js 
 -Etape 4 : Allez sur votre serveur discord et tapez la commande %joke pour vous amuser avec Chuck Norris
 
 <div id='discord'/>  
