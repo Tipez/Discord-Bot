@@ -5,5 +5,8 @@ WORKDIR /home/app
 
 COPY app/ /home/app/
 
+# installation de nodemon
+RUN npm install -g nodemon
+
 # lancement de l'app node.js
-CMD ["node","index.js"]
+CMD ["nodemon","index.js"]

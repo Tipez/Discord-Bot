@@ -21,10 +21,10 @@ module.exports = {
             })
 
 
-            message.channel.send("new prefix: " + args[0] + JSON.stringify(prefix))
+            return message.channel.send("new prefix: " + args[0] + JSON.stringify(prefix))
         }
 
-        message.channel.send("le prefixe ne fait pas parti de la liste ['%', '!', '#']")
+        return message.channel.send("le prefixe ne fait pas parti de la liste ['%', '!', '#']")
 
 
     }

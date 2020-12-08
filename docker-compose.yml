@@ -1,0 +1,17 @@
+version: "3"
+services:
+  node:
+    build:
+      context: .
+    volumes:
+    - /home/eisti/GI3/Dev Js/TpNodeJs-Docker/app:/home/app
+    networks:
+      - nginxphp
+    container_name: node-docker
+    
+networks:
+    nginxphp:
+        ipam:
+            driver: default
+            config: 
+                - subnet: 172.72.72.72/29
