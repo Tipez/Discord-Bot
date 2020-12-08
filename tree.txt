@@ -1,0 +1,15 @@
+.
+├── app
+│   ├── commands
+│   ├── node_modules
+│   ├── config.json
+│   ├── index.js
+│   ├── package.json
+│   └── package-lock.json
+├── docker-compose.yml
+├── Dockerfile
+├── README.md
+└── tree.txt
+
+3 directories, 8 files
+tree -L 2 --dirsfirst > tree.txt

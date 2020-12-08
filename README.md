@@ -1,10 +1,27 @@
 # Node.js | Dicord Chuck Norris Bot
 
 # Table des matières
-1. [Utilisation du Repo](#Repo)
-2. [Discord](#discord)
-3. [Commandes](#commandes)
-4. [Docker](#docker)
+1. [Structure du projet](#Structure)
+2. [Utilisation du Repo](#Repo)
+3. [Discord](#discord)
+4. [Commandes](#commandes)
+5. [Docker](#docker)
+
+<div id='Structure'/>  
+
+## Structure
+.
+├── app
+│   ├── commands
+│   ├── node_modules
+│   ├── config.json      <-- Your discord Token Here !
+│   ├── index.js
+│   ├── package.json
+│   └── package-lock.json
+├── docker-compose.yml
+├── Dockerfile
+├── README.md
+└── tree.txt
 
 
 <div id='Repo'/>  
