@@ -11,7 +11,7 @@
 
 ## Comment utiliser se repo ?
 - Etape 1 : clonez ce repo sur votre machine   
-- Etape 2 : Modifiez dans le fichier : /app/config.json le token du bot par le votre !  
+- Etape 2 : Modifiez dans le fichier : **/app/config.json** le **token** du bot par le votre !  
 - Etape 3 :  
     - via docker :  
     Lancez les commandes docker  
