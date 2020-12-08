@@ -13,7 +13,7 @@
 -Etape 1 : clonez ce repo sur votre machine   
 -Etape 2 : Modifiez dans le fichier : /app/config.json le token du bot par le votre !  
 -Etape 3 : Lancez les commandes docker  
-
+-Etape 4 : Allez sur votre serveur discord et tapez la commande %joke pour vous amusez avec Chuck Norris
 
 <div id='discord'/>  
 
