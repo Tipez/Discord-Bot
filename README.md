@@ -18,8 +18,7 @@
 <div id='discord'/>  
 
 ## Discord
-Au préalable il faudra vous rendre sur :  
-https://discord.com/developers/applications  
+Au préalable il faudra vous rendre sur :  [Developper Docker](https://discord.com/developers/applications)    
 -Créez une nouvelle app,  
 -Créez un bot dans le menu bot,  
 -Ajoutez votre bot à un serveur Discord.js via le menu oAuth2 en selectionnant bot dans les scopes et donnez lui des droits (type admin par exemple) pour le server discord.
@@ -37,7 +36,10 @@ Liste des commandes disponibles :
 - %help
 - %ping
 - %prefix[new_prefix] où new_prefix est un nouveau préfix   
-Api Chuck Norris : http://www.icndb.com/api/
+
+
+
+[Api Chuck Norris](http://www.icndb.com/api/)
 
 
 <div id='docker'/>  
